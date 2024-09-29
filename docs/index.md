@@ -1,6 +1,6 @@
 # Zev Lee
 
-Data scientist, software developer, musician, content creator, competitive gamer, and more.
+Software developer, musician, content creator, competitive gamer, and more.
 
 ## Links
 
