@@ -2,7 +2,7 @@ site_name: Zev Lee
 site_url: https://zevlee.me
 site_description: Zev Lee
 site_author: Zev Lee
-repo_url: https://github.com/zevlee/zevlee.me
+repo_url: https://github.com/zevlee/zevlee.github.io
 
 markdown_extensions:
   - attr_list
