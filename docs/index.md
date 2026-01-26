@@ -8,6 +8,6 @@ Software developer, musician, content creator, competitive gamer, and more.
 
 ## Contact
 
-[Contact me on SimpleX Chat](https://smp15.simplex.im/a#lT80sfHIV4fpYhI0gT2lbfPdW0IM33L75Ln-R9x-EIo)
+[Contact me on SimpleX Chat](https://smp9.simplex.im/a#6EXWBk8hOs0xekIrKpN8abYC7zi72sMQOWbi6GKBlsw)
 
 ![test](assets/images/contact.png "Scan the QR code in SimpleX Chat to connect with me")
