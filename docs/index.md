@@ -10,4 +10,4 @@ Software developer, musician, content creator, competitive gamer, and more.
 
 [Contact me on SimpleX Chat](https://smp9.simplex.im/a#6EXWBk8hOs0xekIrKpN8abYC7zi72sMQOWbi6GKBlsw)
 
-![test](assets/images/contact.png "Scan the QR code in SimpleX Chat to connect with me")
+![Scan the QR code to connect](assets/images/contact.png "Scan the QR code in SimpleX Chat to connect with me"){width=25%}
